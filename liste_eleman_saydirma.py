@@ -6,3 +6,4 @@ for i in liste:
 
 for key1 in a.keys():
     print(key1, " : ", a[key1], " Piece")
+#Liste elemanlarını güncelleme 
